@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout Type</string>
+    <string name="Contact_name">Oleg</string>
+    <string name="Contact">Name</string>
+    <string name="Organisation">Organisation</string>
+    <string name="Organisation_name">MIREA</string>
+    <string name="number">8(800)5553535</string>
+</resources>
